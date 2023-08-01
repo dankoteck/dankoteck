@@ -1,5 +1,5 @@
-[comment]: <> (Base status)
-[![Dang Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lekhoa011159CloneShowcase&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Dang Khoa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lekhoa011159CloneShowcase&show_icons=true&theme=midnight-purple&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekhoa011159CloneShowcase&size_weight=0.5&count_weight=0.5&theme=midnight-purple&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 
 #### My favourite repos
 <a target="_blank" href="https://github.com/lekhoa011159CloneShowcase/nuxicommerce">
@@ -18,6 +18,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lekhoa011159CloneShowcase&repo=airbnb-clone-full-options&show_icons=true&theme=midnight-purple" />
 </a>
 
-[comment]: <> (Top Langs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lekhoa011159CloneShowcase&size_weight=0.5&count_weight=0.5&theme=midnight-purple&langs_count=8&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
